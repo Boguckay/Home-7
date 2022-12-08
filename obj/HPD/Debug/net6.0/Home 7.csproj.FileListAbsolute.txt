@@ -1,0 +1,15 @@
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.csproj.AssemblyReference.cache
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.AssemblyInfoInputs.cache
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.AssemblyInfo.cs
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\Home 7\bin\HPD\Debug\net6.0\Home 7.exe
+C:\Users\Марина\Desktop\Home 7\bin\HPD\Debug\net6.0\Home 7.deps.json
+C:\Users\Марина\Desktop\Home 7\bin\HPD\Debug\net6.0\Home 7.runtimeconfig.json
+C:\Users\Марина\Desktop\Home 7\bin\HPD\Debug\net6.0\Home 7.dll
+C:\Users\Марина\Desktop\Home 7\bin\HPD\Debug\net6.0\Home 7.pdb
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.dll
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\refint\Home 7.dll
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.pdb
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\Home 7.genruntimeconfig.cache
+C:\Users\Марина\Desktop\Home 7\obj\HPD\Debug\net6.0\ref\Home 7.dll
